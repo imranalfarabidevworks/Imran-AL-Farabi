@@ -1,77 +1,74 @@
-<h1 align="center">🚀 Greetings, I'm <br><b>Imran Al Farabi</b></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&weight=700&lines=Frontend+Developer;React+Enthusiast;Web+Architect;Open+Source+Contributor" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=200&section=header&text=IMRAN%20AL%20FARABI&fontSize=50&animation=fadeIn&fontColor=000000" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=≌+Web+Architect;≌+React+Specialist;≌+UI/UX+Enthusiast;≌+Creative+Developer" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/imranalfarabidevworks"><img src="https://img.shields.io/badge/-GITHUB-00f5ff?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="mailto:itzSumma11@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61552100236600"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imranalfarabidevworks&label=PROFILE+VIEWS&color=00f5ff&style=flat-square" alt="Visitor Count" />
+</p>
 
 ---
 
-## 🛰️ System Overview
+## 🛰️ System Status: Operational
 
-<p align="left">
-  👋 Hi, I'm <b>Imran</b>, a passionate Web Developer currently honing my skills at <b>Programming Hero</b>. I specialize in building sleek, dark-themed, and high-performance web applications using modern technologies.
-</p>
-
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Core Focus</h3>
-      <ul>
-        <li><b>Frontend:</b> Mastered React, Tailwind CSS, & JavaScript</li>
-        <li><b>Current Projects:</b> Building Video Alchemist & DigiTools</li>
-        <li><b>Daily Goal:</b> Writing clean, scalable, and reusable code</li>
-      </ul>
+    <td width="55%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>I am a <b>Frontend Developer</b> specialized in building high-end digital experiences. Currently crafting interfaces at <b>Programming Hero</b>.</p>
+      <p>🔹 <b>Focus:</b> Performance, Scalability, & Aesthetics</p>
+      <p>🔹 <b>Current:</b> Developing <i>Video Alchemist</i> & <i>DigiTools</i></p>
+      <p>🔹 <b>Location:</b> Bangladesh 🇧🇩</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Activity Snapshot</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=itzSumma&show_icons=true&theme=neon&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff&border_color=39FF14" width="100%" />
+    <td width="45%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&border_color=00f5ff&hide_border=false" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+## 🛠️ The Tech Forge (Arsenal)
 
-<h3 align="center">⚡ Coding Language & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite&theme=dark" />
-</p>
-
-<h3 align="center">⚙️ Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,penpot&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,git,github,vscode,figma,penpot&theme=dark&perline=6" />
+</div>
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Neural Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzSumma&theme=neon&background=000000&fire=39FF14&ring=39FF14&sideNums=ffffff&sideLabels=ffffff&dates=39FF14&currStreakNum=ffffff&border=39FF14" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzSumma&layout=compact&theme=neon&bg_color=000000&title_color=39FF14&text_color=ffffff&border_color=39FF14" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranalfarabidevworks&theme=tokyonight&background=0d1117&fire=00f5ff&ring=00f5ff&sideNums=ffffff&sideLabels=ffffff&dates=00c8cc&currStreakNum=ffffff&border=00f5ff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranalfarabidevworks&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&border_color=00f5ff" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=false" width="100%" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imranalfarabidevworks&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=false" width="97%" />
+</div>
 
 ---
 
 ## 🧠 Dev Philosophy
 
-> **"Code is like humor. When you have to explain it, it’s bad."** — *Focusing on clean and readable architecture.*
+> [!IMPORTANT]
+> **"Programming isn't about what you know; it's about what you can figure out."**
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=neon" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=30&section=footer&fontSize=20&text=End%20of%20Line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f5ff&height=30&section=footer&fontSize=20&text=End%20of%20Line" />
 </p>
