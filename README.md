@@ -5,9 +5,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/itzSumma"><img src="https://img.shields.io/badge/DEV_PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=39FF14&border=39FF14" /></a>
-  <a href="mailto:itzSumma11@gmail.com"><img src="https://img.shields.io/badge/HIRE_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61552100236600"><img src="https://img.shields.io/badge/STAY_CONNECTED-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
 </div>
 
 <br/>
