@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/imranalfarabidevworks"><img src="https://img.shields.io/badge/-GITHUB-00f5ff?style=for-the-badge&logo=github&logoColor=black" /></a>
-  <a href="mailto:itzSumma11@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61552100236600"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:imranalfarabidevworks@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61579932906800"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <p align="center">
