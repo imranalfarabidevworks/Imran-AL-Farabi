@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=≌+Web+Architect;≌+React+Specialist;≌+UI/UX+Enthusiast;≌+Creative+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&background=0d1117&center=true&vCenter=true&width=700&height=50&weight=700&lines=≌+Web+Architect;≌+React+Specialist;≌+UI/UX+Enthusiast;≌+Creative+Developer" />
 </p>
 
 <p align="center">
