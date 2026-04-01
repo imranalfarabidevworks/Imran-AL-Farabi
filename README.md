@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=IMRAN%20AL%20FARABI&fontSize=50&animation=fadeIn&fontColor=00f5ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=200&section=header&text=IMRAN%20AL%20FARABI&fontSize=50&animation=fadeIn&fontColor=0d1117" />
 </p>
 
 <p align="center">
@@ -31,16 +31,17 @@
     </td>
     <td width="45%" valign="top" align="center">
       <img src="https://i.ibb.co.com/CphL4gBk/Whats-App-Image-2025-12-08-at-6-03-13-PM.jpg" width="180" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 20px #00f5ff;" alt="Imran Al Farabi" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&border_color=00f5ff&hide_border=false" width="100%" />
     </td>
   </tr>
 </table>
 
----
 
 ## 🛠️ The Tech Forge (Arsenal)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma,penpot&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui,vite,git,github,vscode,figma,penpot&theme=dark&perline=6" />
 </div>
 
 ---
@@ -49,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranalfarabidevworks&theme=tokyonight&background=0d1117&fire=00f5ff&ring=00f5ff&sideNums=ffffff&sideLabels=ffffff&dates=00c8cc&currStreakNum=ffffff&border=00f5ff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&border_color=00f5ff&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranalfarabidevworks&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&border_color=00f5ff" width="48%" />
 </p>
 
 <br/>
