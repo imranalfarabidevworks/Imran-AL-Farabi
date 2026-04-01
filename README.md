@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=200&section=header&text=IMRAN%20AL%20FARABI&fontSize=50&animation=fadeIn&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=200&section=header&text=IMRAN%20AL%20FARABI&fontSize=50&animation=fadeIn&fontColor=0d1117" />
 </p>
 
 <p align="center">
@@ -25,12 +25,14 @@
     <td width="55%" valign="top">
       <h3>🚀 About Me</h3>
       <p>I am a <b>Frontend Developer</b> specialized in building high-end digital experiences. Currently crafting interfaces at <b>Programming Hero</b>.</p>
-      <p>🔹 <b>Focus:</b> Performance, Scalability, & Aesthetics</p>
-      <p>🔹 <b>Current:</b> Developing <i>Video Alchemist</i> & <i>DigiTools</i></p>
-      <p>🔹 <b>Location:</b> Bangladesh 🇧🇩</p>
+      <p>🔹 <b style="color: #00f5ff;">Focus:</b> Performance, Scalability, & Aesthetics</p>
+      <p>🔹 <b style="color: #00f5ff;">Current:</b> Developing <i>Video Alchemist</i> & <i>DigiTools</i></p>
+      <p>🔹 <b style="color: #00f5ff;">Location:</b> Bangladesh 🇧🇩</p>
     </td>
-    <td width="45%" valign="top">
-      <img src="https://i.ibb.co.com/CphL4gBk/Whats-App-Image-2025-12-08-at-6-03-13-PM.jpg&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&border_color=00f5ff&hide_border=false" />
+    <td width="45%" valign="top" align="center">
+      <img src="https://i.ibb.co.com/CphL4gBk/Whats-App-Image-2025-12-08-at-6-03-13-PM.jpg" width="180" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 20px #00f5ff;" alt="Imran Al Farabi" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&border_color=00f5ff&hide_border=false" width="100%" />
     </td>
   </tr>
 </table>
