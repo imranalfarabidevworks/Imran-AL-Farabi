@@ -12,10 +12,6 @@
   <a href="https://www.facebook.com/profile.php?id=61579932906800"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imranalfarabidevworks&label=PROFILE+VIEWS&color=00f5ff&style=flat-square" alt="Visitor Count" />
-</p>
-
 ---
 
 ## 🛰️ System Status: Operational
@@ -33,7 +29,11 @@
 ## 🛠️ The Tech Forge (Arsenal)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui,vite,git,github,vscode,figma,penpot,phtoshop&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma,penpot&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/DaisyUI-5835EE?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Picxo-FF00FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </div>
 
 ---
