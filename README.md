@@ -31,10 +31,10 @@
 ---
 
 ## 🛠️ The Tech Forge (Arsenal)
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui,vite,git,github,vscode,figma,penpot&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui,vite,git,github,vscode,figma,penpot,phtoshop&theme=dark&perline=7" />
 </div>
+
 
 ---
 
