@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 🛰️ System Status: Operational
 
 <p align="center">
@@ -48,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranalfarabidevworks&theme=tokyonight&background=0d1117&fire=00f5ff&ring=00f5ff&sideNums=ffffff&sideLabels=ffffff&dates=00c8cc&currStreakNum=ffffff&border=00f5ff" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&border_color=00f5ff&hide_border=false" width="48%" />
 </p>
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d0645772-abc5-4ce1-974e-5dc64663d33a" />
 <br/>
 
 <div align="center">
