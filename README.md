@@ -53,7 +53,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imranalfarabidevworks&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=false" width="97%" />
 </div>
 
 ---
